@@ -178,23 +178,14 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **開發環境：** Visual Studio Code
 - **GitHub：** [SICXE-Interpreter](https://github.com/lin-jessic/SICXE-Interpreter/blob/main/README.md)
 
-### 物件導向程式設計
-- Object-Oriented Programming
-- **GitHub：** 整理中
-
-### 網路應用軟體設計
-- Network Application Software Design
-- **GitHub：** 整理中
-
-### 多媒體資訊概論
-- 三次課程作業
-- **GitHub：** 整理中
-
 ---
 
 ## Additional Coursework Repositories
 
 以下 Repository 主要為課堂練習、測驗與作業紀錄，因此統一整理於此，不列為主要專題成果。
+### 多媒體資訊概論
+- 三次課程作業
+- **GitHub：** 整理中
 
 ### 計算機概論
 - [CS101](https://github.com/lin-jessic/CS101)
