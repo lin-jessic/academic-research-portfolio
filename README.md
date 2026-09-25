@@ -154,11 +154,6 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **授課教師：** 謝萬雲教授
 - **GitHub：** 整理中
 
-### 作業系統
-- Operating Systems
-- **授課教師：** 張哲維教授
-- **GitHub：** 整理中
-
 ### 計算機網路
 - Computer Networks
 - **GitHub：** 整理中
