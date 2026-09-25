@@ -69,7 +69,9 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **授課教師：** 萬書言教授
 - **課程成績：** 94 / 100
 - **團隊 GitHub：** [spatiotemporal-crime-transfer-learning](https://github.com/Tiffanyxxx3238/spatiotemporal-crime-transfer-learning)
-- **課程剪報 / 報告：** [查看檔案](./ai-classification/report/)
+- **課程成果文件：**
+  - [期末專題簡報](./ai-classification/AI_Project_Presentation.pptx)
+  - [互動式犯罪預測地圖操作說明](./ai-classification/Crime_Prediction_Map_Guidance.pdf)
 
 > 目前團隊 Repository 已包含課程後續持續整理與擴充之內容；本頁所列個人工作以當時實際參與範圍為準。
 
