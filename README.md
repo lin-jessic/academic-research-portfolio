@@ -124,9 +124,6 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 ### 軟體工程
 
 課程期末專題依授課教師指定題目，進行威秀影城網站功能與介面復刻。
-
-本專案為團隊共同開發，程式碼目前存放於團隊 Repository。
-
 - **GitHub：** [software_engineering_new](https://github.com/rebeccahou0424/software_engineering_new)
 - **課程報告：** [查看檔案](./software-engineering/report/)
 
