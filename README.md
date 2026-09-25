@@ -189,6 +189,9 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 ### 網頁程式設計課堂練習
 - [Webp2026](https://github.com/lin-jessic/Webp2026)
 
+### 資料結構與演算法
+- [CS101](https://github.com/lin-jessic/CS101)
+- [cs101-2025](https://github.com/lin-jessic/cs101-2025)
 ---
 
 ## Notes
