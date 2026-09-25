@@ -200,8 +200,12 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - [Webp2026](https://github.com/lin-jessic/Webp2026)
 
 ### 資料結構與演算法
-- [CS101](https://github.com/lin-jessic/CS101)
-- [cs101-2025](https://github.com/lin-jessic/cs101-2025)
+以 C++ 完成上下學期的資料結構與演算法實作，內容包含 Binary Search、Selection Sort、Polynomial、Heap / Merge / Quick Sort、Graph Representation，以及 DFS / BFS。
+部分作業除程式實作外，也透過不同輸入規模量測實際執行時間並繪製曲線，比較理論時間複雜度與實際程式效能；Graph 作業則以 Adjacency Matrix / List 表示隨機無向圖，並輸出 DFS / BFS 結果進行視覺化驗證。
+
+- **語言：** C++
+- **主要內容：** Data Structures、Sorting、Searching、Complexity Analysis、Graph、DFS / BFS
+- **GitHub：** [Data-Structures-and-Algorithms](https://github.com/lin-jessic/Data-Structures-and-Algorithms/tree/main)
 ---
 
 ## Notes
