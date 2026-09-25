@@ -152,8 +152,16 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **GitHub：** 整理中
 
 ### 計算機網路
-- Computer Networks
-- **GitHub：** 整理中
+以 C++ 實作可供網站離線瀏覽的 Web Crawler / Downloader。依課程規格，不使用現成 HTTP 函式庫，而是透過 WinSock 自行建立連線、產生 HTTP GET Request 並解析 Response。
+
+專題進一步實作 HTML 連結解析、遞迴 Crawling、相對與絕對 URL 處理，以及多執行緒檔案下載、進度監控、續傳、檔案類型與大小篩選等功能。
+
+- **課程：** 計算機網路
+- **授課教師：** 李春良教授
+- **語言：** C++
+- **主要內容：** HTTP、WinSock、Web Crawling、Multi-threading、URL Parsing
+- **專案形式：** 個人期末專題
+- **GitHub：** [CPP-Web-Crawler-Downloader](https://github.com/lin-jessic/CPP-Web-Crawler-Downloader/tree/main)
 
 ### 系統程式
 - System Programming
