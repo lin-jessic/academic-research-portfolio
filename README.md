@@ -169,8 +169,14 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **GitHub：** [CPP-Web-Crawler-Downloader](https://github.com/lin-jessic/CPP-Web-Crawler-Downloader/tree/main)
 
 ### 系統程式
-- System Programming
-- **GitHub：** 整理中
+使用 Python 與 Tkinter 實作簡易 SIC/XE Assembly 解譯器，可載入、編輯與執行 `.asm` 測試程式，並以程式模擬 SIC/XE 暫存器與記憶體狀態。
+實作過程包含 Assembly 程式解析、資料定義處理、Instruction 執行流程，以及 GUI 指令操作介面，並附三組 `.asm` 測試程式驗證執行結果。
+
+- **主要內容：** SIC/XE、Assembly Parsing、Register / Memory Simulation、Interpreter
+- **語言：** Python
+- **GUI：** Tkinter
+- **開發環境：** Visual Studio Code
+- **GitHub：** [SICXE-Interpreter](https://github.com/lin-jessic/SICXE-Interpreter/blob/main/README.md)
 
 ### 物件導向程式設計
 - Object-Oriented Programming
