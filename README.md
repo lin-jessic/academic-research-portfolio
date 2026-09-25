@@ -130,7 +130,7 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **課程：** 軟體工程
 - **專案形式：** 團隊期末專題
 - **主要內容：** Web Development、Database、Software Testing、Team Development
-- **GitHub：** [Software-Engineering-Cinema-Website](你的新 Repo 網址)
+- **GitHub：** [Software-Engineering-Cinema-Website](https://github.com/lin-jessic/Software-Engineering-Cinema-Website)
 
 > 此 Repository 目前為 Private；若無存取權限，請參考本 Repository 中整理之課程報告。
 
