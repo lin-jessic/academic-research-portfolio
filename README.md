@@ -124,8 +124,13 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 ### 軟體工程
 
 課程期末專題依授課教師指定題目，進行威秀影城網站功能與介面復刻。
-- **GitHub：** [software_engineering_new](https://github.com/rebeccahou0424/software_engineering_new)
-- **課程報告：** [查看檔案](./software-engineering/report/)
+依課程指定題目，以威秀影城網站為參考進行功能與介面實作。專案由團隊共同開發，包含電影資訊、影城資訊、場次、會員、訂票與訂單等網站功能，並完成使用手冊與系統測試報告。
+原始團隊 Repository 為 Private，因此另整理本人課程期間參與之版本，作為課程成果與學習紀錄。
+- **原始 GitHub：** [software_engineering_new](https://github.com/rebeccahou0424/software_engineering_new)
+- **課程：** 軟體工程
+- **專案形式：** 團隊期末專題
+- **主要內容：** Web Development、Database、Software Testing、Team Development
+- **GitHub：** [Software-Engineering-Cinema-Website](你的新 Repo 網址)
 
 > 此 Repository 目前為 Private；若無存取權限，請參考本 Repository 中整理之課程報告。
 
