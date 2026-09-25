@@ -151,10 +151,15 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 - **GitHub：** [8051-Microcomputer-Lab](https://github.com/lin-jessic/8051-Microcomputer-Lab)
 
 ### 軟硬體協同設計
-- 軟硬體介面與協同設計
-- 系統實作
+從 Sequential C 描述系統行為開始，逐步將控制邏輯轉換為 Controller / FSM 與 Datapath，最後使用 Verilog 完成 RTL 實作，並透過 Testbench 與 GTKWave 驗證系統行為。
+期中實作以 2-bit Up / Down LED Controller 為題，包含 State Register、3-to-1 MUX、加減資料路徑、LED Decoder，以及 Controller 與 Datapath 的模組化設計。
+
+- **課程：** 軟硬體協同設計
 - **授課教師：** 謝萬雲教授
-- **GitHub：** 整理中
+- **語言：** C、Verilog HDL
+- **主要內容：** FSM、Controller / Datapath、RTL Design、Testbench、Waveform Verification
+- **工具：** GCC、Icarus Verilog、GTKWave
+- **GitHub：** [Hardware-Software-Codesign](https://github.com/lin-jessic/Hardware-Software-Codesign)
 
 ### 計算機網路
 以 C++ 實作可供網站離線瀏覽的 Web Crawler / Downloader。依課程規格，不使用現成 HTTP 函式庫，而是透過 WinSock 自行建立連線、產生 HTTP GET Request 並解析 Response。
