@@ -189,8 +189,12 @@ PineNose 為結合氣體感測、機器學習、影像辨識與邊緣運算的�
 
 以下 Repository 主要為課堂練習、測驗與作業紀錄，因此統一整理於此，不列為主要專題成果。
 ### 多媒體資訊概論
-- 三次課程作業
-- **GitHub：** 整理中
+以 Python 完成音訊頻域處理與彩色影像處理實作。
+音訊作業自行實作 DFT / IDFT，在不直接使用 `numpy.fft` 的條件下完成 Ideal / Butterworth Low-pass 與 High-pass Filtering，並重新輸出處理後的 WAV 音訊；影像作業則從 512 × 512 RAW RGB 資料讀取開始，實作 RGB / HSI 色彩空間轉換，以及 Histogram Equalization、Gamma Transformation 與 Hue Adjustment。
+
+- **語言：** Python
+- **主要內容：** DFT / IDFT、Frequency-domain Filtering、Audio Processing、RGB / HSI、Histogram Equalization、Gamma Transformation
+- **GitHub：** [Multimedia-Information-Processing](https://github.com/lin-jessic/Multimedia-Information-Processing/blob/main/README.md)
 
 ### 計算機概論
 - [CS101](https://github.com/lin-jessic/CS101)
